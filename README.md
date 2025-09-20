@@ -22,15 +22,3 @@ I am a _mother_ of three beautiful daughters, and a _wife_ to my loving husband.
 <img src="https://twst.ju.mp/assets/images/gallery03/f78470c1.gif?v=905b59f0" />
 </div>
 <br>
-
-<div align="center">
-
-# $${\color{red}More \ about \ me:}$$
-</div>
-
-<div align="center">
-
-$${\color{red}Work \ In \ Progress.}$$
-</div>
-
-<br>
